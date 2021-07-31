@@ -1,0 +1,6 @@
+take ia_basico
+npm init -y
+touch Notas.txt
+mkdir src
+npm i nodemon @babel/core @babel/cli @babel/preset-env @babel/node @babel/plugin-transform-runtime -D
+npm i natural brain.js
